@@ -1,0 +1,19 @@
+.img-height{
+    height: 1000px;
+}
+
+.bg-custom{
+    background-color: black;
+}
+
+.custom-ul{
+    margin-top: 38px;
+    margin-left: 20px;
+}
+
+.custom-nav-link{
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 20px;
+    font-size: 20px;
+}
