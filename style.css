@@ -23,6 +23,13 @@
     width: 271px !important;
 }
 
+.custom-height{
+    height: 250px;
+}
+
+
+/* Device Responsive... */
+
 @media screen and (max-width: 1200px) {
     .custom-m{
         width: 227px !important;
